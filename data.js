@@ -228,64 +228,24 @@ export let kanji = [
     answer: "時間"
   },
   {
-    hint: "1",
-    answer: "一"
-  },
-  {
     hint: "Now",
     answer: "今"
-  },
-  {
-    hint: "2",
-    answer: "二"
-  },
-  {
-    hint: "3",
-    answer: "三"
-  },
-  {
-    hint: "4",
-    answer: "四"
-  },
-  {
-    hint: "5",
-    answer: "五"
-  },
-  {
-    hint: "6",
-    answer: "六"
-  },
-  {
-    hint: "7",
-    answer: "七"
-  },
-  {
-    hint: "8",
-    answer: "八"
-  },
-  {
-    hint: "9",
-    answer: "九"
-  },
-  {
-    hint: "10",
-    answer: "十"
   },
   {
     hint: "Yellow",
     answer: "黄色"
   },
   {
-    hint: "Drink/Nomu",
+    hint: "Drink",
     answer: "飲む"
   },
   {
-    hint: "Study (present)",
-    answer: "勉強します"
+    hint: "Study",
+    answer: "勉強する"
   },
   {
-    hint: "Work (present)",
-    answer: "働きます"
+    hint: "Work",
+    answer: "働く"
   },
   {
     hint: "Every Morning",
@@ -361,11 +321,11 @@ export let kanji = [
   },
   {
     hint: "Wake Up",
-    answer: "起きます"
+    answer: "起きる"
   },
   {
     hint: "Sleep",
-    answer: "寝ます"
+    answer: "眠る"
   },
   {
     hint: "Bank",
@@ -417,7 +377,7 @@ export let kanji = [
   },
   {
     hint: "Watch",
-    answer: "見ます"
+    answer: "見る"
   },
   {
     hint: "OK",
@@ -425,23 +385,23 @@ export let kanji = [
   },
   {
     hint: "Create",
-    answer: "作ります"
+    answer: "作る"
   },
   {
     hint: "Wash",
-    answer: "洗います"
+    answer: "洗う"
   },
   {
     hint: "Come",
-    answer: "来ます"
+    answer: "来る"
   },
   {
     hint: "Go Back",
-    answer: "帰ります"
+    answer: "帰る"
   },
   {
     hint: "Go",
-    answer: "行きます"
+    answer: "行く"
   },
   {
     hint: "Child",
@@ -481,7 +441,7 @@ export let kanji = [
   },
   {
     hint: "Write",
-    answer: "書きます"
+    answer: "書く"
   },
   {
     hint: "Small",
@@ -505,7 +465,7 @@ export let kanji = [
   },
   {
     hint: "Buy",
-    answer: "買います"
+    answer: "買う"
   },
   {
     hint: "Clothes",
@@ -549,7 +509,7 @@ export let kanji = [
   },
   {
     hint: "Read",
-    answer: "読み"
+    answer: "読む"
   },
   {
     hint: "Discharged from hospital",
@@ -597,7 +557,7 @@ export let kanji = [
   },
   {
     hint: "Meet",
-    answer: "会います"
+    answer: "会う"
   },
   {
     hint: "To take shower (followed by object)",
@@ -629,7 +589,7 @@ export let kanji = [
   },
   {
     hint: "Leave",
-    answer: "出ます"
+    answer: "出る"
   },
   {
     hint: "Moon/Month Prefix",
